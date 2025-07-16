@@ -104,8 +104,6 @@ Steps:
 
 - Clean text → `text_cleaning.py`
 
-![Alt Text](images/CLEANED_OUTPUT.png)
-
 - Generate persona → `llm_persona_extractor.py`
 
 ![Alt Text](images/SCRIPT_RUN.png)
