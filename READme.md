@@ -95,12 +95,12 @@ Steps:
 
 - Provide the Reddit user URL.
 
-![Alt Text](images\URL.png)
+![Alt Text](images/URL.png)
 
 - Run username extraction → `helpers.py`
 - Fetch posts & comments → `fetch_user_data.py`
 
-![Alt Text](images\DATA_COLLECTED.png)
+![Alt Text](images/DATA_COLLECTED.png)
 
 - Clean text → `text_cleaning.py`
 
@@ -108,7 +108,7 @@ Steps:
 
 - Generate persona → `llm_persona_extractor.py`
 
-![Alt Text](images\SCRIPT_RUN.png)
+![Alt Text](images/SCRIPT_RUN.png)
 
 
 - Output saved in `output_txt_file/{username}_persona.txt`
@@ -142,7 +142,7 @@ Each `.txt` file includes:
 - **Content Tone**
 - **Citations** (Post # and URL)
 
-![Alt Text](images\OUTPUT.png)
+![Alt Text](images/OUTPUT.png)
 ---
 
 ## License
